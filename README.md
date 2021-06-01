@@ -1,3 +1,3 @@
 # Cypress tests from API REST and Front-end
 
-(testfront.png)
+![Dynamic tests](testfront.png)
